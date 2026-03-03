@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a project name EduMate 👯 <br>I’m looking for internship🤝 <br>I’m currently learning DSA concepts and MERN stack
+🔭 I’m currently working on a project name FeedSense 👯 <br>I’m looking for internship🤝 <br>I’m currently learning DSA concepts and MERN stack
 
 
 ## 🌐 Socials:
